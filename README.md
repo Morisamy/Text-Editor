@@ -12,7 +12,7 @@ a Basic String Editor with a Save / Overwrite and a Load Functionality
     <img src="https://github.com/Morisamy/LoginModernUI/blob/master/LoginModernUI/Images/2.PNG" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">//Text Editor</h3>
+<h3 align="center">Text Editor</h3>
 
   
 </div>
@@ -41,7 +41,7 @@ a Basic String Editor with a Save / Overwrite and a Load Functionality
 ## About The Project
 
 
-//Text Editor
+Text Editor
 
 
 : `Morisamy` , `Text_Editor`
