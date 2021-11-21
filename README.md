@@ -1,5 +1,3 @@
-# Text-Editor
-a Basic String Editor with a Save / Overwrite and a Load Functionality
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -41,7 +39,7 @@ a Basic String Editor with a Save / Overwrite and a Load Functionality
 ## About The Project
 
 
-Text Editor
+a Basic String Editor with a Save / Overwrite and a Load Functionality
 
 
 : `Morisamy` , `Text_Editor`
