@@ -50,7 +50,6 @@ a Basic String Editor with a Save / Overwrite and a Load Functionality
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 ### Built With
 
 * [C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/)
