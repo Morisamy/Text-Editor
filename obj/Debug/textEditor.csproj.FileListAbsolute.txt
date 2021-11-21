@@ -1,0 +1,9 @@
+c:\users\mohamed.elkasas\documents\visual studio 2013\Projects\textEditor\textEditor\bin\Debug\textEditor.exe.config
+C:\Users\Mohamed.Elkasas\documents\visual studio 2013\Projects\textEditor\textEditor\bin\Debug\textEditor.exe
+C:\Users\Mohamed.Elkasas\documents\visual studio 2013\Projects\textEditor\textEditor\bin\Debug\textEditor.pdb
+C:\Users\Mohamed.Elkasas\documents\visual studio 2013\Projects\textEditor\textEditor\obj\Debug\textEditor.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed.Elkasas\documents\visual studio 2013\Projects\textEditor\textEditor\obj\Debug\textEditor.frmMain.resources
+C:\Users\Mohamed.Elkasas\documents\visual studio 2013\Projects\textEditor\textEditor\obj\Debug\textEditor.Properties.Resources.resources
+C:\Users\Mohamed.Elkasas\documents\visual studio 2013\Projects\textEditor\textEditor\obj\Debug\textEditor.csproj.GenerateResource.Cache
+C:\Users\Mohamed.Elkasas\documents\visual studio 2013\Projects\textEditor\textEditor\obj\Debug\textEditor.exe
+C:\Users\Mohamed.Elkasas\documents\visual studio 2013\Projects\textEditor\textEditor\obj\Debug\textEditor.pdb
