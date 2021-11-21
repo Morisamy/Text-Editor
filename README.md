@@ -41,14 +41,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
 a Basic String Editor with a Save / Overwrite and a Load Functionality
-
 
 : `Morisamy` , `Text_Editor`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 ### Built With
 
