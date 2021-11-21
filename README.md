@@ -29,6 +29,10 @@
     </li>
      <li>
       <a href="#next-steps">Next Steps</a>
+       <ul>
+        <li>
+         <a href="#download">Download</a></li>
+      </ul>
   </li>
   </ol>
 </details>
@@ -59,7 +63,9 @@ a Basic String Editor with a Save / Overwrite and a Load Functionality
 
 * will work further on more functions and better GUI 
 
-[Download](https://github.com/Morisamy/Text-Editor/raw/main/bin/Debug/textEditor.exe)
+### Download
+
+You can download the App .exe without the source code [Here](https://github.com/Morisamy/Text-Editor/raw/main/bin/Debug/textEditor.exe)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
