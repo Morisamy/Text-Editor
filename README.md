@@ -59,6 +59,7 @@ a Basic String Editor with a Save / Overwrite and a Load Functionality
 
 * will work further on more functions and better GUI 
 
+[Download](https://github.com/Morisamy/Text-Editor/raw/main/bin/Debug/textEditor.exe)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
