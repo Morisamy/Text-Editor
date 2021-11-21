@@ -57,14 +57,15 @@ a Basic String Editor with a Save / Overwrite and a Load Functionality
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Download
+
+You can download the App .exe without the source code [Here](https://github.com/Morisamy/Text-Editor/raw/main/bin/Debug/textEditor.exe)
 
 ### Next Steps
 
 * will work further on more functions and better GUI 
 
-### Download
 
-You can download the App .exe without the source code [Here](https://github.com/Morisamy/Text-Editor/raw/main/bin/Debug/textEditor.exe)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
