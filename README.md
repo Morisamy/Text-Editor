@@ -42,9 +42,9 @@
 ## About The Project
 
 a Basic String Editor with a Save / Overwrite and a Load Functionality
-![GitHub Logo](https://github.com/Morisamy/Text-Editor/blob/main/Text.JPG)
 : `Morisamy` , `Text_Editor`
 
+![GitHub Logo](https://github.com/Morisamy/Text-Editor/blob/main/Text.JPG)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
